@@ -51,10 +51,10 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=MrHulu&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MrHulu&theme=tokyonight" />
 <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MrHulu&theme=tokyonight&utcOffset=8" />
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrHulu&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MrHulu&theme=tokyonight" />
 
 <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MrHulu&theme=tokyonight" />
 
