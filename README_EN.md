@@ -21,14 +21,9 @@
 
 ## 👨‍💻 About Me
 
-```yaml
-name: MrHulu
-location: China
-focus:
-  - AI Agent / Workflow Automation
-  - Full-stack Product Development & Architecture Optimization
-  - Engineering Quality (Testing, CI/CD, Observability)
-```
+- 👤 **Name**: MrHulu
+- 📍 **Location**: China
+- 🎯 **Focus**: AI Agent/Workflow Automation, full-stack architecture optimization, and engineering quality
 
 - 🔭 Building practical AI-powered tools and production-ready applications.
 - 🌱 Continuously learning system design, performance tuning, and reliability engineering.
@@ -57,11 +52,11 @@ focus:
 <div align="center">
 
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=MrHulu&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=MrHulu&theme=tokyonight&hide_border=true" />
+<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MrHulu&theme=tokyonight&utcOffset=8" />
 
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrHulu&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=MrHulu&theme=tokyo-night&hide_border=true&area=true" />
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MrHulu&theme=tokyonight" />
 
 </div>
 
