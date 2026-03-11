@@ -8,7 +8,7 @@
   <img src="https://komarev.com/ghpvc/?username=MrHulu&label=Profile%20Views&style=for-the-badge&color=8B5CF6" />
   <a href="https://github.com/MrHulu?tab=followers"><img src="https://img.shields.io/github/followers/MrHulu?style=for-the-badge&logo=github&label=Followers&color=6366F1" /></a>
   <a href="https://blog.csdn.net/qq_41898196"><img src="https://img.shields.io/badge/CSDN-技术博客-F97316?style=for-the-badge&logo=blogger&logoColor=white" /></a>
-  <a href="https://github.com/MrHulu/HULUCHAT"><img src="https://img.shields.io/badge/最新项目-HULUCHAT-06B6D4?style=for-the-badge&logo=github" /></a>
+  <a href="https://github.com/MrHulu/HuluAiChat"><img src="https://img.shields.io/badge/最新项目-HuluAiChat-06B6D4?style=for-the-badge&logo=github" /></a>
 </p>
 
 <p>
@@ -34,8 +34,8 @@
 
 ## 🚀 最新项目
 
-- **HULUCHAT**：持续迭代中的智能对话项目，欢迎 Star / Issue / PR。
-  👉 <a href="https://github.com/MrHulu/HULUCHAT">点击查看 HULUCHAT</a>
+- **HuluAiChat**：持续迭代中的智能对话项目，欢迎 Star / Issue / PR。
+  👉 <a href="https://github.com/MrHulu/HuluAiChat">点击查看 HuluAiChat</a>
 
 ---
 
@@ -75,8 +75,8 @@
   <a href="https://blog.csdn.net/qq_41898196">
     <img src="https://img.shields.io/badge/CSDN-我的博客-F97316?style=for-the-badge&logo=blogger&logoColor=white" />
   </a>
-  <a href="https://github.com/MrHulu/HULUCHAT">
-    <img src="https://img.shields.io/badge/HULUCHAT-最新项目-06B6D4?style=for-the-badge&logo=github" />
+  <a href="https://github.com/MrHulu/HuluAiChat">
+    <img src="https://img.shields.io/badge/HuluAiChat-最新项目-06B6D4?style=for-the-badge&logo=github" />
   </a>
 </div>
 
