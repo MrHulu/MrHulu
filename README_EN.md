@@ -8,7 +8,7 @@
   <img src="https://komarev.com/ghpvc/?username=MrHulu&label=Profile%20Views&style=for-the-badge&color=8B5CF6" />
   <a href="https://github.com/MrHulu?tab=followers"><img src="https://img.shields.io/github/followers/MrHulu?style=for-the-badge&logo=github&label=Followers&color=6366F1" /></a>
   <a href="https://blog.csdn.net/qq_41898196"><img src="https://img.shields.io/badge/CSDN-Technical%20Blog-F97316?style=for-the-badge&logo=blogger&logoColor=white" /></a>
-  <a href="https://github.com/MrHulu/HULUCHAT"><img src="https://img.shields.io/badge/Latest%20Project-HULUCHAT-06B6D4?style=for-the-badge&logo=github" /></a>
+  <a href="https://github.com/MrHulu/HuluAiChat"><img src="https://img.shields.io/badge/Latest%20Project-HuluAiChat-06B6D4?style=for-the-badge&logo=github" /></a>
 </p>
 
 <p>
@@ -34,8 +34,8 @@
 
 ## 🚀 Latest Project
 
-- **HULUCHAT**: an actively evolving chat project. Stars, issues, and PRs are welcome.  
-  👉 <a href="https://github.com/MrHulu/HULUCHAT">View HULUCHAT</a>
+- **HuluAiChat**: an actively evolving chat project. Stars, issues, and PRs are welcome.  
+  👉 <a href="https://github.com/MrHulu/HuluAiChat">View HuluAiChat</a>
 
 ---
 
@@ -75,8 +75,8 @@
   <a href="https://blog.csdn.net/qq_41898196">
     <img src="https://img.shields.io/badge/CSDN-My%20Blog-F97316?style=for-the-badge&logo=blogger&logoColor=white" />
   </a>
-  <a href="https://github.com/MrHulu/HULUCHAT">
-    <img src="https://img.shields.io/badge/HULUCHAT-Latest%20Project-06B6D4?style=for-the-badge&logo=github" />
+  <a href="https://github.com/MrHulu/HuluAiChat">
+    <img src="https://img.shields.io/badge/HuluAiChat-Latest%20Project-06B6D4?style=for-the-badge&logo=github" />
   </a>
 </div>
 
